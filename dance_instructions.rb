@@ -10,18 +10,17 @@ def Gangnam_Style
   puts "Skip Step"
   puts "Skip Step Left"
   puts "1. Lower left foot to the ground"
-  Bounce left foot back up slightly, kicking it a few inches back
-Left, Right, Left and Left
-Skip Step Right
-
-Lower right foot to the ground
-Bounce right foot back up slightly, kicking it a few inches back
-Right, Left, Right and Right
-UPPER BODY
-BOB THE REINS
-Holding your arms out in front of you, straight and at chest level
-Cross your right wrist over your left and hold them together
-Lift your arms up and down in a loose bouncing movement, in time with the beat of the song. This movement is repeated eight times.
+  puts "2. Bounce left foot back up slightly, kicking it a few inches back"
+  puts "3. Left, Right, Left and Left"
+  puts "Skip Step Right"
+  puts "1. Lower right foot to the ground"
+  puts "2. Bounce right foot back up slightly, kicking it a few inches back"
+  puts "3. Right, Left, Right and Right"
+  puts "Upper Body"
+  puts "Bob the Reins"
+  puts "1. Holding your arms out in front of you, straight and at chest level"
+  puts "2. Cross your right wrist over your left and hold them together"
+  puts "3. Lift your arms up and down in a loose bouncing movement, in time with the beat of the song. This movement is repeated eight times"
 Lasso
 
 Start arm movement by holding left arm so the back of your wrist is near your chin, pointing your left elbow straight left.
