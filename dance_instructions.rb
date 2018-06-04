@@ -1,4 +1,4 @@
-def Gangnam_Style
+def gangnam_style
   puts "Lower Body"
   puts "Assume the proper stance"
   puts "1. Plant legs far apart, bend knees slightly and keep posture loose"
